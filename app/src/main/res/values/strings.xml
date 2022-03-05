@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OrdersDelivery</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="year">Year</string>
+    <string name="financial_unit">Financial Unit</string>
+    <string name="branch_number">Branch Number</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="login">Login</string>
+</resources>
